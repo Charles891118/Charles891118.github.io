@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - assets/files/CV.pdf
+    - .nojekyll
 
 website:
   title: "My Personal Website"
