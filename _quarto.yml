@@ -6,7 +6,7 @@ project:
     - .nojekyll
 
 website:
-  title: "My Personal Website"
+  title: "Chia-Le Yen"
   navbar:
     left:
       - href: index.qmd
