@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my CV from the link below:\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#my-cv",
+    "href": "cv.html#my-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my CV from the link below:\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in [Subject], [University Name], [Year]\nMaster in [Subject], [University Name], [Year]\nBachelor in [Subject], [University Name], [Year]"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nJob Title, [Company/Institution], [Year] - Present\nJob Title, [Company/Institution], [Year] - [Year]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Here are some of the research projects I am currently working on:\n\n\n\nDescription: A brief description of the project.\nStatus: Data collection / Analysis / Writing.\n\n\n\n\n\nDescription: A brief description of the project.\nStatus: Under review."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Here are some of the research projects I am currently working on:\n\n\n\nDescription: A brief description of the project.\nStatus: Data collection / Analysis / Writing.\n\n\n\n\n\nDescription: A brief description of the project.\nStatus: Under review."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nAuthor, A., & Author, B. (Year). Title of the article. Journal Name, Volume(Issue), Page range.\nAuthor, A. (Year). Title of the book. Publisher."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my personal website!\nI am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].\nThis is where you can write a short biography about yourself."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my personal website!\nI am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].\nThis is where you can write a short biography about yourself."
+  }
+]

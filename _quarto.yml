@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/files/CV.pdf
+
+website:
+  title: "My Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

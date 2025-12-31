@@ -1,0 +1,22 @@
+---
+title: "Home"
+about:
+  template: jolla
+  image: assets/figures/my-image.png
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+## Bio
+
+Welcome to my personal website!
+
+I am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].
+
+This is where you can write a short biography about yourself.
