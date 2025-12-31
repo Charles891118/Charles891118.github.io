@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+#title-block-header {
+  display: none;
+}
+
 .research-title {
   font-size: 1.2em;
   font-weight: bold;
@@ -30,7 +34,6 @@ body {
 .abstract-toggle {
   cursor: pointer;
   font-size: 0.8em;
-  margin-left: 10px;
   color: #777;
   border: 1px solid #ddd;
   padding: 2px 6px;
@@ -38,6 +41,8 @@ body {
   background-color: #fff;
   vertical-align: middle;
   user-select: none;
+  display: inline-block;
+  margin-top: 5px;
 }
 
 .abstract-toggle:hover {

@@ -20,11 +20,14 @@ format:
 
 <div>
   <a href="https://doi.org/10.1186/s12877-025-06088-0" class="research-title">Examining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data</a>
-  <span class="abstract-toggle" onclick="toggleAbstract('pub1')">Show Abstract</span>
 </div>
 
 <div class="research-authors">
 Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (2025).
+</div>
+
+<div>
+  <span class="abstract-toggle" onclick="toggleAbstract('pub1')">Read More</span>
 </div>
 
 <div id="pub1" class="research-abstract">
@@ -43,11 +46,14 @@ Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (20
 
 <div>
   <span class="research-title">The Effects of Qualification Adjustments in Low-Income Programs on Elderly Well-being</span>
-  <span class="abstract-toggle" onclick="toggleAbstract('wip1')">Show Abstract</span>
 </div>
 
 <div class="research-authors">
 Joint with Kuan-Ming Chen and Julia Shu-Huah Wang
+</div>
+
+<div>
+  <span class="abstract-toggle" onclick="toggleAbstract('wip1')">Read More</span>
 </div>
 
 <div id="wip1" class="research-abstract">
