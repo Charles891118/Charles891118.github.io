@@ -46,20 +46,13 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\nAuthor, A., & Author, B. (Year). Title of the article. Journal Name, Volume(Issue), Page range.\nAuthor, A. (Year). Title of the book. Publisher."
+    "text": "Publications\n\n\nExamining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data. Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. BMC Geriatrics (2025).\n\nAbstract\nBackground: This study combines a nationally representative sample from Taiwan with four years of National Health Insurance (NHI) data to explore the distinctive impact of emotional and social loneliness on health service utilization, including outpatient visits for mental health, general outpatient visits, emergency room (ER) visits, and hospitalization.\nMethods: Data were drawn from the 2015 Taiwan Longitudinal Survey on Aging (TLSA) and merged with participants’ NHI records from 2015 to 2018. The analysis used logistic regression for binary outcomes and negative binomial regression for counts.\nResults: Results show that higher emotional loneliness in 2015 was associated with increased outpatient mental health visits over time and more general outpatient visits within the same year. Conversely, higher social loneliness in 2015 reduced the likelihood of seeking ER care in 2015.\nConclusions: By merging national data and distinguishing emotional from social loneliness, this study offers insights into their differential impacts on healthcare utilization among older adults in Taiwan. It emphasizes the importance of addressing loneliness to improve physical and mental well-being and optimize the effective utilization of healthcare resources.\nKeywords: Emotional loneliness, Social loneliness, Health service utilization, Longitudinal, Taiwan\nLink to Article"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to my personal website!\nI am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].\nThis is where you can write a short biography about yourself."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my personal website!\nI am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].\nThis is where you can write a short biography about yourself."
+    "text": "Welcome to my personal website!\nI am a second-year master’s student in Economics at National Taiwan University, where I also earned dual bachelor’s degrees in Economics and Social Work.\nMy research interests focus on social policy, aging, and health, with an emphasis on quantitative analysis using administrative and longitudinal data.\nContact me at: charles891118@gmail.com"
   }
 ]

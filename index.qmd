@@ -10,13 +10,13 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Charles891118/
 ---
-
-## Bio
 
 Welcome to my personal website!
 
-I am a researcher interested in [Your Field]. Currently, I am working on [Brief Description].
+I am a second-year master's student in Economics at National Taiwan University, where I also earned dual bachelor's degrees in Economics and Social Work. 
 
-This is where you can write a short biography about yourself.
+My research interests focus on social policy, aging, and health, with an emphasis on quantitative analysis using administrative and longitudinal data.
+
+Contact me at: [charles891118@gmail.com](mailto:charles891118@gmail.com)
