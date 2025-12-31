@@ -19,6 +19,24 @@ format:
 ## Publications
 
 <div>
+  <span class="research-title">The Impact of Putative Income Regulations on Social Assistance: A Policy Simulation Study Using a Model Family Approach and Administrative Data</span>
+</div>
+
+<div class="research-authors">
+Julia Shu-Huah Wang, Kuan-Ming Chen, Chia-Le Yen, Wan-Hsuan Chiang, Pin-Chen Chiang, Jing Wu, Chien-Yu Lin, Pang-Hau Wu, John Jih-Chang Liang, Fang-Ling Chang, Yueh-Tzu Wang, Jia-Wei Shen, Chu-Kai Cheng, and Yu-Xiao Yi. *Journal of Social Sciences and Philosophy* (R&R).
+</div>
+
+<div>
+  <span class="abstract-toggle" onclick="toggleAbstract('pub2')">Read More</span>
+</div>
+
+<div id="pub2" class="research-abstract">
+Taiwan’s social assistance system emphasizes work ethics and self-reliance. A key feature is the “putative income” regulation, which imputes earnings to non-working applicants. This policy has been controversial, as many genuinely struggling households are deemed ineligible for assistance. While past research has used interviews to critique the system’s fairness, this study employs model family data and government administrative records to simulate the effects of abolishing the regulation on benefit generosity, poverty reduction, and coverage. Results show that removing putative income would significantly increase the income of zero-earning households, helping them meet basic needs. However, it would not substantially expand social assistance coverage. International comparisons indicate that abolishing the regulation would not transform Taiwan into a generous welfare state. Reforming the current benefit calculation to better reflect the needs of low-wage earners could enhance fairness and adequacy in supporting families in economic distress.
+
+**Keywords**: social assistance, putative income, work ethics, model family, policy simulation
+</div>
+
+<div>
   <a href="https://doi.org/10.1186/s12877-025-06088-0" class="research-title">Examining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data</a>
 </div>
 
