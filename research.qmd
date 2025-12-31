@@ -1,16 +1,33 @@
 ---
 title: "Research"
+format:
+  html:
+    include-in-header:
+      text: |
+        <script>
+        function toggleAbstract(id) {
+          var x = document.getElementById(id);
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+        </script>
 ---
 
 ## Publications
 
-**[Examining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data](https://doi.org/10.1186/s12877-025-06088-0)**
+<div>
+  <a href="https://doi.org/10.1186/s12877-025-06088-0" class="research-title">Examining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data</a>
+  <span class="abstract-toggle" onclick="toggleAbstract('pub1')">Show Abstract</span>
+</div>
 
+<div class="research-authors">
 Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (2025).
+</div>
 
-<details>
-<summary>Abstract</summary>
-
+<div id="pub1" class="research-abstract">
 **Background**: This study combines a nationally representative sample from Taiwan with four years of National Health Insurance (NHI) data to explore the distinctive impact of emotional and social loneliness on health service utilization, including outpatient visits for mental health, general outpatient visits, emergency room (ER) visits, and hospitalization.
 
 **Methods**: Data were drawn from the 2015 Taiwan Longitudinal Survey on Aging (TLSA) and merged with participants’ NHI records from 2015 to 2018. The analysis used logistic regression for binary outcomes and negative binomial regression for counts.
@@ -20,18 +37,19 @@ Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (20
 **Conclusions**: By merging national data and distinguishing emotional from social loneliness, this study offers insights into their differential impacts on healthcare utilization among older adults in Taiwan. It emphasizes the importance of addressing loneliness to improve physical and mental well-being and optimize the effective utilization of healthcare resources.
 
 **Keywords**: Emotional loneliness, Social loneliness, Health service utilization, Longitudinal, Taiwan
-
-</details>
+</div>
 
 ## Works in Progress
 
-**The Effects of Qualification Adjustments in Low-Income Programs on Elderly Well-being**
+<div>
+  <span class="research-title">The Effects of Qualification Adjustments in Low-Income Programs on Elderly Well-being</span>
+  <span class="abstract-toggle" onclick="toggleAbstract('wip1')">Show Abstract</span>
+</div>
 
+<div class="research-authors">
 Joint with Kuan-Ming Chen and Julia Shu-Huah Wang
+</div>
 
-<details>
-<summary>Abstract</summary>
-
+<div id="wip1" class="research-abstract">
 This project examines how changes in eligibility criteria for low-income assistance programs shape access to benefits and subsequent outcomes among older adults. Focusing on subsidy take-up behavior, the study identifies the causal effects of eligibility expansions on employment, fertility, domestic violence, and broader measures of well-being using quasi-experimental methods and administrative data.
-
-</details>
+</div>
