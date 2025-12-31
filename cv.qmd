@@ -11,14 +11,3 @@ title: "Curriculum Vitae"
 You can also download my CV from the link below:
 
 [Download CV (PDF)](assets/files/CV.pdf)
-
-## Education
-
-*   **PhD in [Subject]**, [University Name], [Year]
-*   **Master in [Subject]**, [University Name], [Year]
-*   **Bachelor in [Subject]**, [University Name], [Year]
-
-## Experience
-
-*   **Job Title**, [Company/Institution], [Year] - Present
-*   **Job Title**, [Company/Institution], [Year] - [Year]

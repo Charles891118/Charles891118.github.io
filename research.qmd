@@ -5,6 +5,7 @@ title: "Research"
 ## Publications
 
 **[Examining the longitudinal influence of loneliness on healthcare utilization: evidence from Taiwan’s national health insurance data](https://doi.org/10.1186/s12877-025-06088-0)**
+
 Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (2025).
 
 <details>
@@ -25,6 +26,7 @@ Shiau-Fang Chao, Hui-Chuan Hsu, Chia-Le Yen and Bo-Yu Chen. *BMC Geriatrics* (20
 ## Works in Progress
 
 **The Effects of Qualification Adjustments in Low-Income Programs on Elderly Well-being**
+
 Joint with Kuan-Ming Chen and Julia Shu-Huah Wang
 
 <details>
