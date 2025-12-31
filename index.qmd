@@ -5,9 +5,6 @@ about:
   image: assets/figures/my-image.png
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: github
       text: Github
       href: https://github.com/Charles891118/
