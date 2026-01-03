@@ -8,6 +8,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Charles891118/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chia-le-yen-737487340/
 ---
 
 Welcome to my personal website!
