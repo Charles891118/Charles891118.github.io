@@ -186,6 +186,16 @@ section {
   font-size: 0.94rem;
 }
 
+.research-authors:has(+ .research-venue) {
+  margin-bottom: 4px;
+}
+
+.research-venue {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
 details {
   margin-top: 14px;
 }
