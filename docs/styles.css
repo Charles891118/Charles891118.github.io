@@ -270,6 +270,7 @@ summary:hover {
   font-weight: 400;
   letter-spacing: 0.03em;
   white-space: nowrap;
+  font-variant-numeric: proportional-nums;
 }
 
 .teaching-table td:nth-child(2),
